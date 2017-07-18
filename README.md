@@ -23,4 +23,12 @@ Agent Sonos was created as part of a research project that included, but was not
 <b>4.</b> Once unzipped, open the "AgentSonosP5" folder and double click the "sketch.js" file <br>
 <b>5.</b> This will open up the AgentSonosP5 program. To run the program click the "Play" icon on the top left of the window.
 
+#                   Using AgentSonosP5
+
+<b>1.</b> Once unzipped, open the "AgentSonosP5" folder and double click the "sketch.js" file <br>
+<b>2.</b> This will open up the AgentSonosP5 program. To run the program click the "Play" icon on the top left of the window. <br>
+<b>3.</b> Click the boxes to activate their associate sounds <br>
+<b>4.</b> Click "Play/Stop", on the top-left side. As the maestro moves over the active boxes, each box will play its associated sound file <br>
+<b>5.</b> Click "Play/Stop" once more to stop the maestro from moving and click "Reset" to refresh and reset the program.
+
 ![AgentSonos Jam Session-alt-tag](http://i.imgur.com/6oT85E1.png)
