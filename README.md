@@ -7,4 +7,9 @@ Agent Sonos was created as part of a research project that included, but was not
 
 # Getting Started - Downloading and using AgentSonosP5
 
+#                   Downloading P5js
+
+#1.# Click on the link https://p5js.org/download/ 
+#2.# Click on the "P5.js Complete" box directly below the heading "Complete Library"
+
 ![AgentSonos Jam Session-alt-tag](http://i.imgur.com/6oT85E1.png)
