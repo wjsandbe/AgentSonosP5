@@ -9,10 +9,18 @@ Agent Sonos was created as part of a research project that included, but was not
 
 #                   Downloading P5js
 
-<b>1.</b>  Click on the link https://p5js.org/download/ <br>
+<b>1.</b> Click on the link https://p5js.org/download/ <br>
 <b>2.</b> Click on the "P5.js Complete" box directly below the heading "Complete Library" <br>
 <b>3.</b> Find and open the "P5.zip" file that you have just downloaded <br>
 <b>4.</b> You are now ready to download the AgentSonosP5 sketch and use the program <br>
-<b>5.</b> To start a new P5 project, open the "p5.js" after extracting the contents of the download <br>
+<b>5.</b> To start a new P5 project, open the "p5.js" after extracting the contents of the download
+
+#                   Downloading AgentSonosP5
+
+<b>1.</b> Download the "AgentSonosP5.zip" file from the above files <br>
+<b>2.</b> Find and open the "AgentSonosP5.zip" file that you have just downloaded <br>
+<b>3.</b> Click  <br>
+<b>4.</b> You are now ready to download the AgentSonosP5 sketch and use the program <br>
+<b>5.</b> To start a new P5 project, open the "p5.js" after extracting the contents of the download
 
 ![AgentSonos Jam Session-alt-tag](http://i.imgur.com/6oT85E1.png)
