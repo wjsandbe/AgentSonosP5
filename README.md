@@ -6,5 +6,7 @@ Agent Sonos was created as part of a research project that included, but was not
 
 ![alt tag](http://imgur.com/6oT85E1) 
 
+![AgentSonos Jam Session-alt-tag](http://i.imgur.com/6oT85E1.png)
+
 [AgentSonos Jam Session](http://imgur.com/6oT85E1)
 # Getting Started - Downloading and using AgentSonosP5
