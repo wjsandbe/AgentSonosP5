@@ -28,5 +28,5 @@ Agent Sonos was created as part of a research project that included, but was not
 <b>3.</b> Click the boxes to activate their associated sound files <br>
 <b>4.</b> Click "Play/Stop" to start the maestro. As the maestro moves over active boxes, each box plays its sound file <br>
 <b>5.</b> Click "Play/Stop" once more to stop the maestro from moving and click "Reset" to refresh and reset the program <br>
-[Video: Using Agent Sonos](https://www.youtube.com/watch?v=029SqEKg6Jg&feature=youtu.be)
+[Video: Using AgentSonos](https://www.youtube.com/watch?v=029SqEKg6Jg&feature=youtu.be)
 
