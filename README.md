@@ -1,4 +1,4 @@
-<b> About the Project - AgentSonos </b> <br>
+# About the Project - AgentSonos
 <img src="http://i.imgur.com/6oT85E1.png" height="200" width="300"/>
 
 Agent Sonos is a musical composition programming tool useful for engaging students in K12 Math, Music, ELA and Computer Science curricula, as well as for composing music and creating live music and coding performances. Agent Sonos was created at M3Lab (http://www.m3lab.org/) in the Department of Learning Sciences at the University of Calgary.
