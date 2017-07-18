@@ -1,13 +1,6 @@
-<head>  
-  <style>  
-    p {  
-      text-indent: 2.0em;  
-    }  
-  </style>  
-</head> 
 
 # About the Project - AgentSonos
-<img src="http://i.imgur.com/6oT85E1.png" height="200" width="300" align="LEFT"/>   <p> Agent Sonos is a musical composition programming tool useful for engaging students in K12 Math, Music, ELA and Computer Science curricula, as well as for composing music and creating live music and coding performances. Agent Sonos was created at M3Lab (http://www.m3lab.org/) in the Department of Learning Sciences at the University of Calgary.</p>
+<img src="http://i.imgur.com/6oT85E1.png" height="200" width="300" align="LEFT"/>  <space><space><space><space><space>Agent Sonos is a musical composition programming tool useful for engaging students in K12 Math, Music, ELA and Computer Science curricula, as well as for composing music and creating live music and coding performances. Agent Sonos was created at M3Lab (http://www.m3lab.org/) in the Department of Learning Sciences at the University of Calgary.
 
 Agent Sonos was created as part of a research project that included, but was not limited to, jamming with live musicians and public performances with live musicians. As part of the downloadable files, I have added a brief paper, titled "Agent Sonos Report" that outlines the research that was part of designing AgentSonos. Below is a link to a short video of one of our creative jam sessions, in which we used Agent Sonos as well as live musicians to compose new and spontaneous music: 
 
