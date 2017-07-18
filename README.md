@@ -4,5 +4,7 @@ Agent Sonos is a musical composition programming tool useful for engaging studen
 Agent Sonos was created as part of a research project that included, but was not limited to, jamming with live musicians and public performances with live musicians. Below is a link to a short video of one of our creative jam sessions, in which we used Agent Sonos as well as live musicians to compose new and spontaneaous music: 
 [![IMAGE ALT TEXT](http://imgur.com/6oT85E1)](https://www.youtube.com/watch?v=Xpkpw-VTHs8&feature=youtu.be)
 
-[![AgentSonos Jam Session](http://imgur.com/6oT85E1)
+[link text](https://www.youtube.com/watch?v=Xpkpw-VTHs8&feature=youtu.be "AgentSonos Jam Session")
+
+[AgentSonos Jam Session](http://imgur.com/6oT85E1)
 # Getting Started - Downloading and using AgentSonosP5
