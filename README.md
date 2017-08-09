@@ -8,8 +8,8 @@ AgentSonos was created as part of a research project that included, but was not 
 
 #                   Downloading P5js
 
-<b>1.</b> Click on the link https://p5js.org/download/ <br>
-<b>2.</b> Click on the "p5.js complete" box directly below the heading "Complete Library" <br>
+<b>1.</b> Click on the link https://github.com/processing/p5.js-editor/releases <br>
+<b>2.</b> Click on the "p5-" zip file for your operating system (mac, linux, or windows) <br>
 <b>3.</b> Find and open the "P5.zip" file that you have just downloaded <br>
 <b>4.</b> You are now ready to download the AgentSonosP5 sketch and use the program
 
@@ -23,7 +23,7 @@ AgentSonos was created as part of a research project that included, but was not 
 
 #                   Using AgentSonosP5
 
-<b>1.</b> Once unzipped, open the "AgentSonosP5" folder and double click the "sketch.js" file <br>
+<b>1.</b> Once unzipped, open the "AgentSonosP5" folder and open the "sketch.js" file with P5js <br>
 <b>2.</b> This opens the AgentSonosP5 sketch <br>
 <b>3.</b> Click the boxes to activate their associated sound files <br>
 <b>4.</b> Click "Play/Stop" to start the maestro. As the maestro moves over active boxes, each box plays its sound file <br>
