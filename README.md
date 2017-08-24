@@ -30,3 +30,9 @@ AgentSonos was created as part of a research project that included, but was not 
 <b>5.</b> Click "Play/Stop" once more to stop the maestro from moving and click "Reset" to refresh and reset the program <br>
 [Video: Using AgentSonos](https://www.youtube.com/watch?v=029SqEKg6Jg&feature=youtu.be)
 
+#                   Using AgentSonosP5 Online
+
+<b>1.</b> You can use and edit AgentSonosP5 free & easy on Open Processing [Here](https://openprocessing.org/sketch/444316) <br>
+<b>3.</b> https://openprocessing.org/ allows users to upload, edit, save and run their sketches <br>
+
+
