@@ -33,6 +33,7 @@ AgentSonos was created as part of a research project that included, but was not 
 #                   Using AgentSonosP5 Online
 
 <b>1.</b> You can use and edit AgentSonosP5 free & easy on Open Processing [Here](https://openprocessing.org/sketch/444316) <br>
-<b>3.</b> https://openprocessing.org/ allows users to upload, edit, save and run their sketches <br>
+<b>2.</b> https://openprocessing.org/ allows users to upload, edit, save and run their sketches <br>
+<b>3.</b> This is a link to a short tutorial on how to use AgentSonos via Open Processing https://youtu.be/67O3sK5Uq7o <br>
 
 
